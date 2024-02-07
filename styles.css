@@ -115,8 +115,7 @@ button:hover {
      margin: 10px;
     }
     button{
-        margin-right: 0;
-        padding-right: 0;
+        margin:none;
     }
   }
   
