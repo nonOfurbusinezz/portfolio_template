@@ -8,6 +8,10 @@
 
 }
 
+html{
+    height: 100dvh
+}
+
 .fa{
     color: white;
     font-size: 1.7rem;
@@ -31,7 +35,6 @@
 
 body {
     background-color: #18181b;
-    height: 100dvh;
     
 }
 
